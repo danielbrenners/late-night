@@ -6,6 +6,10 @@
   "scripts": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbrenners/late-night"
+  },
   "keywords": [
     "late",
     "night"
